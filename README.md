@@ -26,3 +26,7 @@ python app.py
 ```
 
 then open browser and just type [https://127.0.0.1:5000](https://127.0.0.1:5000)
+
+
+# You can also download our project presentation file 
+[Presentation File](https://github.com/rushipatel7/Image-Captioning-Web-App-Flask/blob/main/image_captioning.pptx)
