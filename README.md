@@ -24,3 +24,5 @@ pip3 install -r requirements.txt
 ```
 python app.py
 ```
+
+then open browser and just type [https://127.0.0.1:5000](https://127.0.0.1:5000)
